@@ -24,7 +24,7 @@ This was the academy's test run, run as a business-advisory engagement with the 
 
 These points come from the notes. They're observations, not decisions.
 
-- **Pace.** Meeting every two weeks covered about 4 books in 5 months. The planned full academy meets weekly, so a 6-month cohort has roughly twice as many sessions.
+- **Pace.** Meeting every two weeks covered about 4 books in 5 months. The planned full academy meets weekly, so the 22-week spring cohort has 22 sessions, compared with 13 calls in the whole pilot.
 - **Assignments worked best when they were concrete and tied to the business:** triad teams, a hospitality committee with a deadline (CyberMarketingCon), the Golden Circle for each team member.
 - **The interactive tool got used.** The Circles worksheet was assigned as homework, in the order Concern → Influence → Control.
 - **Participants wanted more books on management mechanics:** *Scaling People*, *Scaling Up*, *Crucial Conversations*, *Getting Things Done*, *Turn the Ship Around!*. See [`../../program/book-list.md`](../../program/book-list.md).

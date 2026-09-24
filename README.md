@@ -7,7 +7,7 @@ A leadership and organizational-development program that teaches small business 
 > **Facilitator:** David Ebner
 > **Status:** Active: four books in the curriculum; *The 7 Habits of Highly Effective People* is the current build (Habits 1–3 complete, Habits 4–7 open)
 > **Pilot:** CMS test cohort, Oct 2025 – May 2026 ([`pilot/cms-2025-2026/`](pilot/cms-2025-2026/))
-> **Next:** Weekly remote cohorts of about 6 months, two per year. Proposed first cohort: week of Jan 4, 2027 ([`program/`](program/))
+> **Next:** Weekly remote cohorts: a 22-week spring cohort (January to early June) and a condensed 15-week fall cohort (September to mid-December). First cohort: week of Jan 4, 2027 ([`program/`](program/))
 
 ## Repository Map
 
@@ -15,7 +15,7 @@ A leadership and organizational-development program that teaches small business 
 |------|----------|
 | `README.md` | This program reference: curriculum content for each book |
 | [`program/program-design.md`](program/program-design.md) | Cohort format: weekly, remote, rotating discussion leads, session template, open questions |
-| [`program/cohort-calendar.md`](program/cohort-calendar.md) | Draft 2027 cohort and break calendar |
+| [`program/cohort-calendar.md`](program/cohort-calendar.md) | Spring and fall cohort calendar, 2027–2029 |
 | [`program/book-list.md`](program/book-list.md) | Books covered, planned but not reached, and suggested by participants |
 | [`pilot/cms-2025-2026/`](pilot/cms-2025-2026/) | CMS pilot: advisory plan, meeting notes, lessons, original .docx files |
 | [`tools/circles-of-control/index.html`](tools/circles-of-control/index.html) | Circles of Control, Influence & Concern interactive tool |
@@ -1142,7 +1142,7 @@ Quick lookup for the core vocabulary across the curriculum. (*Unreasonable Hospi
 - [ ] **Assignments** for *Start with Why*, *Unreasonable Hospitality*, *The 7 Habits*, and *Tribal Leadership* Parts 1, 3, and 4 (only *Tribal Leadership* Part 2 has one)
 - [ ] **Glossaries** for *Tribal Leadership*, *Start with Why*, and *The 7 Habits* (full and condensed, to match *Unreasonable Hospitality*)
 - [ ] **Foundations additions** for *The 7 Habits*: habit as knowledge + skill + desire; the young woman / old woman perception illustration
-- [ ] **Program sequencing**: define the order books are taught in and the session calendar (draft calendar in [`program/cohort-calendar.md`](program/cohort-calendar.md); candidates in [`program/book-list.md`](program/book-list.md))
+- [ ] **Program sequencing**: define the order books are taught in and the session calendar (calendar set in [`program/cohort-calendar.md`](program/cohort-calendar.md); candidates in [`program/book-list.md`](program/book-list.md))
 - [ ] **Candidate modules** from the pilot plan that weren't reached (*Delivering Happiness*, *The Toyota Way*, *Creative Confidence*) and participant suggestions (*Scaling People*, *Crucial Conversations*, *Scaling Up*, *Getting Things Done*, *Turn the Ship Around!*)
 - [ ] **Interactive tools** for other frameworks (candidates: a Time Management Matrix sorter for Habit 3, a Tribal Stage listening log for the Part A exercise, a Golden Circle builder for *Start with Why*)
 

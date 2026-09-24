@@ -11,9 +11,9 @@
 | **Meets** | Weekly, remote |
 | **Instructor** | David Ebner is the main instructor. |
 | **Discussion leads** | Participants take turns leading discussions. |
-| **Cohort length** | About 6 months. See [`cohort-calendar.md`](cohort-calendar.md) for the 24- vs. 26-week question. |
-| **Cohorts per year** | 2, each followed by a 2-week break. One break covers the week before and the week after Christmas. |
-| **First cohort** | Proposed: week of Monday, Jan 4, 2027 |
+| **Cohorts per year** | 2: **Spring**, 22 weeks ("5 months", January to early June), and **Fall**, a condensed 15 weeks (Labor Day week to mid-December). See [`cohort-calendar.md`](cohort-calendar.md). |
+| **Time off** | No sessions in July, August, or over Christmas and New Year |
+| **First cohort** | Spring 2027: week of Monday, Jan 4, 2027 |
 | **Audience** | Small business owners and their leaders (see README §1) |
 
 ## Changes from the pilot
@@ -24,7 +24,7 @@
 | Group | One organization's leadership team | A cohort (open: one organization or mixed?) |
 | Leading discussion | Advisor led | Rotating participant leads; David is main instructor |
 | Framing | Business advisory plan, tied to CMS goals | Leadership academy, not tied to one business |
-| Length | Open-ended (Oct 2025 – May 2026) | Fixed ~6-month cohort with breaks |
+| Length | Open-ended (Oct 2025 – May 2026) | Fixed cohorts: 22-week spring, 15-week fall |
 
 ## Weekly session template (from the pilot's agenda pattern)
 
@@ -43,7 +43,7 @@ The 14-day assignment standard came from a biweekly pilot. With weekly meetings,
 ## Open questions
 
 - [ ] Final book list and order for a cohort (see [`book-list.md`](book-list.md))
-- [ ] Weeks per book
+- [ ] Weeks per book, for both the 22-week spring and the 15-week fall cohort
 - [ ] Assignment window: 7 days (weekly) or 14 days (spanning two sessions)?
 - [ ] How discussion leads rotate, and what a discussion lead prepares (a one-page discussion-lead guide?)
 - [ ] Session length and meeting day/time

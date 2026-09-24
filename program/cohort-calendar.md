@@ -1,53 +1,55 @@
-# Cohort Calendar (Draft)
+# Cohort Calendar
 
-> **Status:** Draft for discussion. Nothing here is booked yet.
+> **Status:** Structure decided (September 2026). Nothing is booked yet.
 
-## What was asked for
+## The structure
 
-- Each cohort runs about **6 months** and meets **weekly**, remotely.
-- **Two cohorts per year**, with a **two-week break** after each one.
-- One break covers the **week before and the week after Christmas**.
-- The first cohort might start the **week of Monday, January 4, 2027**.
+| Cohort | Length | Runs | Notes |
+|--------|--------|------|-------|
+| **Spring** | 22 weeks ("5 months") | First full week of January → early June | The full cohort |
+| **Fall** | 15 weeks (condensed) | Labor Day week → mid-December | Shorter, condensed version |
 
-## The math problem
+Both cohorts meet **weekly**, remotely. There are **no sessions in July or August** and **none over Christmas and New Year**.
 
-Six months is about 26 weeks. Two 26-week cohorts plus two 2-week breaks comes to **56 weeks**, which is four weeks longer than a year. If we keep 26-week cohorts, the start date slides about a month later every year, and the Christmas break won't line up after the first year.
+### Why fall is shorter
 
-**Proposed fix: make each cohort 24 weeks.** Two 24-week cohorts plus two 2-week breaks is exactly 52 weeks. The schedule then repeats every year on the same weeks, and the Christmas break always lands in place. 24 weeks is still about 5½ months.
+From Labor Day to the week before Christmas is only 15 weeks. A 22-week fall cohort would have to start in July or run past New Year. Keeping it condensed protects both the summer and the holidays.
 
-## Proposed 2027 schedule (24-week cohorts)
+## Dates, 2027–2029
 
-Dates are the Monday of each week. The meeting day is still open. The pilot met on Thursdays at 10:00.
+Dates are the Monday of each week. The meeting day is still open.
 
-| Block | Starts (week of) | Last week (week of) | Length |
-|-------|------------------|---------------------|--------|
-| **Cohort 2027-A** | Mon, Jan 4, 2027 | Mon, Jun 14, 2027 | 24 weeks |
-| Summer break | Mon, Jun 21, 2027 | Mon, Jun 28, 2027 | 2 weeks |
-| **Cohort 2027-B** | Mon, Jul 5, 2027 | Mon, Dec 13, 2027 | 24 weeks |
-| Christmas break | Mon, Dec 20, 2027 | Mon, Dec 27, 2027 | 2 weeks (Christmas is Sat, Dec 25) |
-| **Cohort 2028-A** | Mon, Jan 3, 2028 | … | pattern repeats |
+| Block | First week | Last week | Length |
+|-------|------------|-----------|--------|
+| **Spring 2027** | Jan 4, 2027 | May 31, 2027 (ends ~Jun 4) | 22 weeks |
+| Summer off | Jun 7 | Aug 30 | 13 weeks |
+| **Fall 2027** | Sep 6, 2027 | Dec 13, 2027 (ends ~Dec 17) | 15 weeks |
+| Christmas break | Dec 20 | Dec 27 | 2 weeks (Christmas is Sat, Dec 25) |
+| **Spring 2028** | Jan 3, 2028 | May 29, 2028 (ends ~Jun 2) | 22 weeks |
+| **Fall 2028** | Sep 4, 2028 | Dec 11, 2028 (ends ~Dec 15) | 15 weeks |
+| Christmas break | Dec 18 | Jan 5, 2029 | 3 weeks (Christmas is Mon, Dec 25; New Year's Day is a Monday) |
+| **Spring 2029** | Jan 8, 2029 | Jun 4, 2029 (ends ~Jun 8) | 22 weeks |
+| **Fall 2029** | Sep 3, 2029 | Dec 10, 2029 (ends ~Dec 14) | 15 weeks |
 
-Because 52 weeks is one day short of a year, the start date moves one day earlier each year (Jan 4, 2027 → Jan 3, 2028 → Jan 1, 2029 …). Every few years, add a third week to one break to reset it.
+**Rule of thumb for later years:**
+- **Spring** starts the first full week after New Year's Day and runs 22 weeks.
+- **Fall** starts the week of Labor Day and ends the week before the week of Dec 20.
 
-### Alternative: keep 26-week cohorts
+## Weeks to watch
 
-If a full six months matters more than a fixed schedule, keep 26 weeks and make only the Christmas break fixed. The summer gap then gets shorter (or disappears), and each year's second cohort has to be fit backward from the Christmas break. We can lay this out if you want it.
-
-## Weeks to watch in 2027 (U.S. holidays)
-
-| Week of | Holiday | Notes |
-|---------|---------|-------|
-| Jan 18 | MLK Day (Mon, Jan 18) | Only affects a Monday meeting |
-| Feb 15 | Presidents' Day (Mon, Feb 15) | Only affects a Monday meeting |
-| May 31 | Memorial Day (Mon, May 31) | Only affects a Monday meeting |
-| Jul 5 | Independence Day observed (Mon, Jul 5) | **Cohort B's first week.** Don't hold a kickoff on Monday. |
-| Sep 6 | Labor Day (Mon, Sep 6) | Only affects a Monday meeting |
-| Nov 22 | Thanksgiving (Thu, Nov 25) | **Conflicts with a Thursday meeting** |
+| Cohort | Week of | Holiday | Notes |
+|--------|---------|---------|-------|
+| Spring | mid-Jan | MLK Day (3rd Monday of January) | Only affects a Monday meeting |
+| Spring | mid-Feb | Presidents' Day (3rd Monday of February) | Only affects a Monday meeting |
+| Spring | late Mar / Apr | Spring break / Easter | Varies by year and by family; think about one flex week |
+| Spring | late May | Memorial Day (last Monday of May) | Usually the final week of spring. Don't put the wrap-up session on Monday. |
+| Fall | Labor Day week | Labor Day (1st Monday of September) | **Fall's first week.** Don't hold the kickoff on Monday. |
+| Fall | late Nov | Thanksgiving (Thu: Nov 25, 2027; Nov 23, 2028; Nov 22, 2029) | **Conflicts with a Thursday meeting.** If skipped, fall has 14 sessions. |
 
 ## Open decisions
 
-- [ ] 24-week cohorts (fixed yearly calendar) or 26-week cohorts (full six months)?
-- [ ] Meeting day and time. Weekly, remote; the pilot met every other Thursday at 10:00.
+- [ ] **How fall is condensed.** Options: fewer books; the same books at a faster pace; or fall as a focused "short course" on 2–3 books.
+- [ ] Is fall the same program as spring (for people who couldn't join in spring), or a follow-on for spring graduates?
+- [ ] Meeting day and time. The pilot met every other Thursday at 10:00.
 - [ ] Session length. The pilot plan budgeted 1 hr roundup + 1 hr workshop per week.
-- [ ] Should each cohort have one or two "flex" weeks built in for holidays, catch-up, or a guest session?
-- [ ] Are the two cohorts per year the **same curriculum** run twice (new people each time), or a **Year 1 / Year 2** sequence?
+- [ ] Does Thanksgiving week (fall) or a spring-break week count as a planned skip?

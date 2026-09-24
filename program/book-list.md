@@ -1,6 +1,6 @@
 # Book List: Covered, Planned, and Suggested
 
-This is every book tied to the academy so far and where it stands. The curriculum and its order for the 6-month cohort are **not decided yet**. This page only collects the options.
+This is every book tied to the academy so far and where it stands. The curriculum and its order for the 22-week spring cohort and the 15-week fall cohort are **not decided yet**. This page only collects the options.
 
 ## Pilot results (CMS cohort, Dec 2025 – May 2026)
 
@@ -46,7 +46,8 @@ These notes are here to help pick substitutes. They aren't recommendations yet.
 
 ## Open decisions
 
-- [ ] Which books go in the 6-month (or 24-week) cohort, and in what order?
+- [ ] Which books go in the 22-week spring cohort, and in what order?
+- [ ] Which books go in the condensed 15-week fall cohort?
 - [ ] Do we finish *The 7 Habits* (Habits 4–7) as its own module or split it?
 - [ ] Which pilot books that weren't reached get dropped or replaced?
 - [ ] How many weeks does each book get? The pilot plan used 6–8 hours per book.
