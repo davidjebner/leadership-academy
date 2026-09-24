@@ -1,6 +1,9 @@
-# Leadership Academy
+# Lead Shop
 
-**Curriculum & Program Reference**
+**A workshop for leaders.** Curriculum & Program Reference
+
+🌐 **[join.leadshop.com](https://join.leadshop.com)**
+
 A leadership and organizational-development program that teaches small business owners through business books, frameworks, discussion, and real-world application.
 
 > **Last updated:** September 24, 2026
@@ -46,7 +49,7 @@ A leadership and organizational-development program that teaches small business 
 
 ### Purpose
 
-Leadership Academy takes proven leadership and business books and turns them into a practical classroom experience for small business owners. The goal is application, not book reports. Each book is broken down into its core frameworks, named examples, and actionable advice, then paired with discussion questions and assignments that ask participants to use the ideas inside their own businesses, with their own teams, on a real timeline.
+Lead Shop takes proven leadership and business books and turns them into a practical classroom experience for small business owners. The goal is application, not book reports. Each book is broken down into its core frameworks, named examples, and actionable advice, then paired with discussion questions and assignments that ask participants to use the ideas inside their own businesses, with their own teams, on a real timeline.
 
 ### Audience
 
@@ -1123,6 +1126,7 @@ Quick lookup for the core vocabulary across the curriculum. (*Unreasonable Hospi
 | April 2026 | *The 7 Habits* Habits 1–3 | Class overview with discussion questions; Word consolidation offered (decision pending) |
 | September 2026 | Program repository | This README consolidating all program materials |
 | September 2026 | Repository setup | Added CMS pilot records (advisory plan, meeting notes), program design, draft 2027 calendar, book list, Circles tool |
+| September 2026 | Name & calendar | Program named **Lead Shop** (join.leadshop.com); 22-week spring and 15-week fall cohorts, all on Tuesdays |
 
 ---
 
@@ -1183,7 +1187,7 @@ Spot-check any **statistic, name, date, dollar figure, page number, or chapter p
 A proposed layout for growing this repo. What exists today: `program/`, `pilot/`, and `tools/circles-of-control/` (see [Repository Map](#repository-map)). The `books/`, `handouts/`, and `facilitator/` folders below are still proposals. Each book module in this README can be split into its own folder as materials expand.
 
 ```
-leadership-academy/
+leadership-academy/                    ← repo name (program is now Lead Shop)
 ├── README.md                          ← this file (program reference)
 │
 ├── books/
@@ -1229,4 +1233,4 @@ leadership-academy/
 
 ---
 
-*Leadership Academy · Program reference maintained by David Ebner · Built from* Tribal Leadership *(Logan, King, Fischer-Wright),* Start with Why *(Sinek),* Unreasonable Hospitality *(Guidara), and* The 7 Habits of Highly Effective People *(Covey, 30th Anniversary Edition).*
+*Lead Shop · A workshop for leaders · [join.leadshop.com](https://join.leadshop.com) · Program reference maintained by David Ebner · Built from* Tribal Leadership *(Logan, King, Fischer-Wright),* Start with Why *(Sinek),* Unreasonable Hospitality *(Guidara), and* The 7 Habits of Highly Effective People *(Covey, 30th Anniversary Edition).*

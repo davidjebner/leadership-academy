@@ -1,6 +1,6 @@
 # Pilot Cohort: Cybersecurity Marketing Society (Oct 2025 – May 2026)
 
-This was the academy's test run, run as a business-advisory engagement with the Cybersecurity Marketing Society (CMS). Participants were **Gianna Whitver** and **David Algava**, with David Ebner as advisor and instructor. Maria Velasquez is also listed as executive leadership in the advisory plan.
+This was the test run for Lead Shop (working title at the time: "Leadership Academy"), run as a business-advisory engagement with the Cybersecurity Marketing Society (CMS). Participants were **Gianna Whitver** and **David Algava**, with David Ebner as advisor and instructor. Maria Velasquez is also listed as executive leadership in the advisory plan.
 
 | File | What it is |
 |------|------------|
@@ -20,11 +20,11 @@ This was the academy's test run, run as a business-advisory engagement with the 
 | *7 Habits* | Apr 2 – Apr 21, 2026 | Intro, Habits 1–3; proactive language; Circles worksheet; Funeral Exercise |
 | End | May 14, 2026 | Last listed call (no notes). Habits 4–7 not reached. |
 
-## What the pilot tells us for the full academy
+## What the pilot tells us for Lead Shop
 
 These points come from the notes. They're observations, not decisions.
 
-- **Pace.** Meeting every two weeks covered about 4 books in 5 months. The planned full academy meets weekly, so the 22-week spring cohort has 22 sessions, compared with 12 calls in the whole pilot.
+- **Pace.** Meeting every two weeks covered about 4 books in 5 months. Lead Shop meets weekly, so the 22-week spring cohort has 22 sessions, compared with 12 calls in the whole pilot.
 - **Assignments worked best when they were concrete and tied to the business:** triad teams, a hospitality committee with a deadline (CyberMarketingCon), the Golden Circle for each team member.
 - **The interactive tool got used.** The Circles worksheet was assigned as homework, in the order Concern → Influence → Control.
 - **Participants wanted more books on management mechanics:** *Scaling People*, *Scaling Up*, *Crucial Conversations*, *Getting Things Done*, *Turn the Ship Around!*. See [`../../program/book-list.md`](../../program/book-list.md).

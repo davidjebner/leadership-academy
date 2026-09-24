@@ -1,4 +1,4 @@
-# Program Design: The Leadership Academy Cohort
+# Program Design: The Lead Shop Cohort
 
 > **Status:** Draft. This records the format as described in September 2026, after the CMS pilot. Anything marked *open* is still undecided.
 
@@ -6,6 +6,8 @@
 
 | | |
 |--|--|
+| **Name** | **Lead Shop**: a workshop for leaders |
+| **Web address** | [join.leadshop.com](https://join.leadshop.com) |
 | **What it is** | A thinking-and-workshop group. We read business books together, discuss them, and apply them through light assignments. |
 | **Intensity** | Deliberately light: "nothing too intensive." Reading and assignments should fit around running a business. |
 | **Meets** | Weekly on **Tuesdays**, remote (Tuesdays avoid almost all U.S. holidays) |
@@ -18,12 +20,12 @@
 
 ## Changes from the pilot
 
-| | CMS pilot | Academy |
+| | CMS pilot | Lead Shop |
 |--|-----------|---------|
 | Cadence | Every 2 weeks (Thursday 10:00) | Weekly (Tuesday) |
 | Group | One organization's leadership team | A cohort (open: one organization or mixed?) |
 | Leading discussion | Advisor led | Rotating participant leads; David is main instructor |
-| Framing | Business advisory plan, tied to CMS goals | Leadership academy, not tied to one business |
+| Framing | Business advisory plan, tied to CMS goals | Lead Shop, a workshop for leaders not tied to one business |
 | Length | Open-ended (Oct 2025 – May 2026) | Fixed cohorts: 22-week spring, 15-week fall |
 
 ## Weekly session template (from the pilot's agenda pattern)

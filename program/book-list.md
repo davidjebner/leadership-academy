@@ -1,6 +1,6 @@
 # Book List: Covered, Planned, and Suggested
 
-This is every book tied to the academy so far and where it stands. The curriculum and its order for the 22-week spring cohort and the 15-week fall cohort are **not decided yet**. This page only collects the options.
+This is every book tied to Lead Shop so far and where it stands. The curriculum and its order for the 22-week spring cohort and the 15-week fall cohort are **not decided yet**. This page only collects the options.
 
 ## Pilot results (CMS cohort, Dec 2025 – May 2026)
 
