@@ -1,0 +1,52 @@
+# Program Design: The Leadership Academy Cohort
+
+> **Status:** Draft. This records the format as described in September 2026, after the CMS pilot. Anything marked *open* is still undecided.
+
+## The format
+
+| | |
+|--|--|
+| **What it is** | A thinking-and-workshop group. We read business books together, discuss them, and apply them through light assignments. |
+| **Intensity** | Deliberately light: "nothing too intensive." Reading and assignments should fit around running a business. |
+| **Meets** | Weekly, remote |
+| **Instructor** | David Ebner is the main instructor. |
+| **Discussion leads** | Participants take turns leading discussions. |
+| **Cohort length** | About 6 months. See [`cohort-calendar.md`](cohort-calendar.md) for the 24- vs. 26-week question. |
+| **Cohorts per year** | 2, each followed by a 2-week break. One break covers the week before and the week after Christmas. |
+| **First cohort** | Proposed: week of Monday, Jan 4, 2027 |
+| **Audience** | Small business owners and their leaders (see README §1) |
+
+## Changes from the pilot
+
+| | CMS pilot | Academy |
+|--|-----------|---------|
+| Cadence | Every 2 weeks (Thursday 10:00) | Weekly |
+| Group | One organization's leadership team | A cohort (open: one organization or mixed?) |
+| Leading discussion | Advisor led | Rotating participant leads; David is main instructor |
+| Framing | Business advisory plan, tied to CMS goals | Leadership academy, not tied to one business |
+| Length | Open-ended (Oct 2025 – May 2026) | Fixed ~6-month cohort with breaks |
+
+## Weekly session template (from the pilot's agenda pattern)
+
+1. **Roundup / what's new.** Each person gives a quick update.
+2. **Assignment review.** What people tried, and what happened.
+3. **Discussion of the reading.** Led by this week's discussion lead, with David framing and adding.
+4. **Assignment** for the coming week.
+5. **Next up.** What to read.
+
+## Materials standards
+
+Use the instructional design standards in the main [README §3](../README.md#3-instructional-design-standards): the section breakdown template, three discussion questions per section, the assignment format (objective → parts → deliverable → success signal → mirror question), and full plus condensed glossaries.
+
+The 14-day assignment standard came from a biweekly pilot. With weekly meetings, a **7-day** assignment format may fit better. *(Open.)*
+
+## Open questions
+
+- [ ] Final book list and order for a cohort (see [`book-list.md`](book-list.md))
+- [ ] Weeks per book
+- [ ] Assignment window: 7 days (weekly) or 14 days (spanning two sessions)?
+- [ ] How discussion leads rotate, and what a discussion lead prepares (a one-page discussion-lead guide?)
+- [ ] Session length and meeting day/time
+- [ ] Cohort size, and whether a cohort is one organization or mixed
+- [ ] Keep the pilot's extras (monthly 1:1s, office hours, Slack, field trips)?
+- [ ] Is the second cohort each year a repeat of the first for new people, or a continuation?
