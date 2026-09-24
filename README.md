@@ -9,7 +9,7 @@ A leadership and organizational-development program that teaches small business 
 > **Last updated:** September 24, 2026
 > **Facilitator:** David Ebner
 > **Status:** Active: four books in the curriculum; *The 7 Habits of Highly Effective People* is the current build (Habits 1–3 complete, Habits 4–7 open)
-> **Pilot:** CMS test cohort, Oct 2025 – May 2026 ([`pilot/cms-2025-2026/`](pilot/cms-2025-2026/))
+> **Pilot:** Test cohort, Dec 2025 – May 2026 ([`pilot/pilot-cohort.md`](pilot/pilot-cohort.md))
 > **Next:** Weekly remote cohorts: a 22-week spring cohort (January to early June) and a condensed 15-week fall cohort (September to mid-December). All sessions are on Tuesdays. First session: Tue, Jan 5, 2027 ([`program/`](program/))
 
 ## Repository Map
@@ -20,7 +20,7 @@ A leadership and organizational-development program that teaches small business 
 | [`program/program-design.md`](program/program-design.md) | Cohort format: weekly, remote, rotating discussion leads, session template, open questions |
 | [`program/cohort-calendar.md`](program/cohort-calendar.md) | Spring and fall cohort calendar, 2027–2029 |
 | [`program/book-list.md`](program/book-list.md) | Books covered, planned but not reached, and suggested by participants |
-| [`pilot/cms-2025-2026/`](pilot/cms-2025-2026/) | CMS pilot: advisory plan, meeting notes, lessons, original .docx files |
+| [`pilot/pilot-cohort.md`](pilot/pilot-cohort.md) | Pilot cohort: what was covered, assignments that worked, facilitator insights, lessons |
 | [`tools/circles-of-control/index.html`](tools/circles-of-control/index.html) | Circles of Control, Influence & Concern interactive tool |
 
 ---
@@ -1125,7 +1125,7 @@ Quick lookup for the core vocabulary across the curriculum. (*Unreasonable Hospi
 | April 2026 | *The 7 Habits* Foundations | Overview of the first ~70 pages (Character Ethic, paradigms, maturity continuum, P/PC) |
 | April 2026 | *The 7 Habits* Habits 1–3 | Class overview with discussion questions; Word consolidation offered (decision pending) |
 | September 2026 | Program repository | This README consolidating all program materials |
-| September 2026 | Repository setup | Added CMS pilot records (advisory plan, meeting notes), program design, draft 2027 calendar, book list, Circles tool |
+| September 2026 | Repository setup | Added pilot summary, program design, cohort calendar, book list, Circles tool |
 | September 2026 | Name & calendar | Program named **Lead Shop** (join.leadshop.com); 22-week spring and 15-week fall cohorts, all on Tuesdays |
 
 ---

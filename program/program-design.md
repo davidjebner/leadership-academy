@@ -1,6 +1,6 @@
 # Program Design: The Lead Shop Cohort
 
-> **Status:** Draft. This records the format as described in September 2026, after the CMS pilot. Anything marked *open* is still undecided.
+> **Status:** Draft. This records the format as described in September 2026, after the pilot cohort. Anything marked *open* is still undecided.
 
 ## The format
 
@@ -20,12 +20,12 @@
 
 ## Changes from the pilot
 
-| | CMS pilot | Lead Shop |
+| | Pilot | Lead Shop |
 |--|-----------|---------|
 | Cadence | Every 2 weeks (Thursday 10:00) | Weekly (Tuesday) |
-| Group | One organization's leadership team | A cohort (open: one organization or mixed?) |
+| Group | One small leadership team | A cohort (open: one organization or mixed?) |
 | Leading discussion | Advisor led | Rotating participant leads; David is main instructor |
-| Framing | Business advisory plan, tied to CMS goals | Lead Shop, a workshop for leaders not tied to one business |
+| Framing | Advisory engagement, tied to one organization's goals | Lead Shop, a workshop for leaders not tied to one business |
 | Length | Open-ended (Oct 2025 – May 2026) | Fixed cohorts: 22-week spring, 15-week fall |
 
 ## Weekly session template (from the pilot's agenda pattern)
