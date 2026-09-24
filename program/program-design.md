@@ -8,7 +8,7 @@
 |--|--|
 | **What it is** | A thinking-and-workshop group. We read business books together, discuss them, and apply them through light assignments. |
 | **Intensity** | Deliberately light: "nothing too intensive." Reading and assignments should fit around running a business. |
-| **Meets** | Weekly, remote |
+| **Meets** | Weekly on **Tuesdays**, remote (Tuesdays avoid almost all U.S. holidays) |
 | **Instructor** | David Ebner is the main instructor. |
 | **Discussion leads** | Participants take turns leading discussions. |
 | **Cohorts per year** | 2: **Spring**, 22 weeks ("5 months", January to early June), and **Fall**, a condensed 15 weeks (Labor Day week to mid-December). See [`cohort-calendar.md`](cohort-calendar.md). |
@@ -20,7 +20,7 @@
 
 | | CMS pilot | Academy |
 |--|-----------|---------|
-| Cadence | Every 2 weeks (Thursday 10:00) | Weekly |
+| Cadence | Every 2 weeks (Thursday 10:00) | Weekly (Tuesday) |
 | Group | One organization's leadership team | A cohort (open: one organization or mixed?) |
 | Leading discussion | Advisor led | Rotating participant leads; David is main instructor |
 | Framing | Business advisory plan, tied to CMS goals | Leadership academy, not tied to one business |
@@ -46,7 +46,7 @@ The 14-day assignment standard came from a biweekly pilot. With weekly meetings,
 - [ ] Weeks per book, for both the 22-week spring and the 15-week fall cohort
 - [ ] Assignment window: 7 days (weekly) or 14 days (spanning two sessions)?
 - [ ] How discussion leads rotate, and what a discussion lead prepares (a one-page discussion-lead guide?)
-- [ ] Session length and meeting day/time
+- [ ] Session length and meeting time (the day is set: Tuesday)
 - [ ] Cohort size, and whether a cohort is one organization or mixed
 - [ ] Keep the pilot's extras (monthly 1:1s, office hours, Slack, field trips)?
 - [ ] Is the second cohort each year a repeat of the first for new people, or a continuation?

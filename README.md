@@ -7,7 +7,7 @@ A leadership and organizational-development program that teaches small business 
 > **Facilitator:** David Ebner
 > **Status:** Active: four books in the curriculum; *The 7 Habits of Highly Effective People* is the current build (Habits 1–3 complete, Habits 4–7 open)
 > **Pilot:** CMS test cohort, Oct 2025 – May 2026 ([`pilot/cms-2025-2026/`](pilot/cms-2025-2026/))
-> **Next:** Weekly remote cohorts: a 22-week spring cohort (January to early June) and a condensed 15-week fall cohort (September to mid-December). First cohort: week of Jan 4, 2027 ([`program/`](program/))
+> **Next:** Weekly remote cohorts: a 22-week spring cohort (January to early June) and a condensed 15-week fall cohort (September to mid-December). All sessions are on Tuesdays. First session: Tue, Jan 5, 2027 ([`program/`](program/))
 
 ## Repository Map
 

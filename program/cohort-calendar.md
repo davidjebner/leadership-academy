@@ -1,6 +1,6 @@
 # Cohort Calendar
 
-> **Status:** Structure decided (September 2026). Nothing is booked yet.
+> **Status:** Structure and meeting day decided (September 2026). Nothing is booked yet. Meeting time is still open.
 
 ## The structure
 
@@ -9,47 +9,78 @@
 | **Spring** | 22 weeks ("5 months") | First full week of January → early June | The full cohort |
 | **Fall** | 15 weeks (condensed) | Labor Day week → mid-December | Shorter, condensed version |
 
-Both cohorts meet **weekly**, remotely. There are **no sessions in July or August** and **none over Christmas and New Year**.
+All sessions are **weekly on Tuesdays**, held remotely. There are **no sessions in July, August, or over Christmas and New Year**.
+
+### Why Tuesday
+
+U.S. Monday holidays (MLK Day, Presidents' Day, Memorial Day, Labor Day) and Thanksgiving Thursday never fall on a Tuesday. In 2027–2029, **no federal holiday lands on a session date**.
 
 ### Why fall is shorter
 
 From Labor Day to the week before Christmas is only 15 weeks. A 22-week fall cohort would have to start in July or run past New Year. Keeping it condensed protects both the summer and the holidays.
 
-## Dates, 2027–2029
+## Session dates
 
-Dates are the Monday of each week. The meeting day is still open.
+### 2027
 
-| Block | First week | Last week | Length |
-|-------|------------|-----------|--------|
-| **Spring 2027** | Jan 4, 2027 | May 31, 2027 (ends ~Jun 4) | 22 weeks |
-| Summer off | Jun 7 | Aug 30 | 13 weeks |
-| **Fall 2027** | Sep 6, 2027 | Dec 13, 2027 (ends ~Dec 17) | 15 weeks |
-| Christmas break | Dec 20 | Dec 27 | 2 weeks (Christmas is Sat, Dec 25) |
-| **Spring 2028** | Jan 3, 2028 | May 29, 2028 (ends ~Jun 2) | 22 weeks |
-| **Fall 2028** | Sep 4, 2028 | Dec 11, 2028 (ends ~Dec 15) | 15 weeks |
-| Christmas break | Dec 18 | Jan 5, 2029 | 3 weeks (Christmas is Mon, Dec 25; New Year's Day is a Monday) |
-| **Spring 2029** | Jan 8, 2029 | Jun 4, 2029 (ends ~Jun 8) | 22 weeks |
-| **Fall 2029** | Sep 3, 2029 | Dec 10, 2029 (ends ~Dec 14) | 15 weeks |
+**Spring 2027: 22 sessions, Jan 5 – Jun 1**
+
+| # | Date | # | Date | # | Date | # | Date |
+|---|------|---|------|---|------|---|------|
+| 1 | Jan 5 | 7 | Feb 16 | 13 | Mar 30 | 19 | May 11 |
+| 2 | Jan 12 | 8 | Feb 23 | 14 | Apr 6 | 20 | May 18 |
+| 3 | Jan 19 | 9 | Mar 2 | 15 | Apr 13 | 21 | May 25 |
+| 4 | Jan 26 | 10 | Mar 9 | 16 | Apr 20 | 22 | Jun 1 |
+| 5 | Feb 2 | 11 | Mar 16 | 17 | Apr 27 | | |
+| 6 | Feb 9 | 12 | Mar 23 | 18 | May 4 | | |
+
+**Summer off:** Jun 2 – Sep 6
+
+**Fall 2027: 15 sessions, Sep 7 – Dec 14**
+
+| # | Date | # | Date | # | Date |
+|---|------|---|------|---|------|
+| 1 | Sep 7 | 6 | Oct 12 | 11 | Nov 16 |
+| 2 | Sep 14 | 7 | Oct 19 | 12 | Nov 23 |
+| 3 | Sep 21 | 8 | Oct 26 | 13 | Nov 30 |
+| 4 | Sep 28 | 9 | Nov 2 | 14 | Dec 7 |
+| 5 | Oct 5 | 10 | Nov 9 | 15 | Dec 14 |
+
+**Christmas break:** Dec 15, 2027 – Jan 3, 2028 (Christmas is Sat, Dec 25)
+
+### 2028–2029 (first and last sessions)
+
+| Cohort | First session | Last session | Sessions |
+|--------|---------------|--------------|----------|
+| **Spring 2028** | Tue, Jan 4, 2028 | Tue, May 30, 2028 | 22 |
+| **Fall 2028** | Tue, Sep 5, 2028 | Tue, Dec 12, 2028 | 15 |
+| **Spring 2029** | Tue, Jan 9, 2029 | Tue, Jun 5, 2029 | 22 |
+| **Fall 2029** | Tue, Sep 4, 2029 | Tue, Dec 11, 2029 | 15 |
+
+Spring 2029 starts Jan 9 rather than Jan 2 so the break covers the week after New Year's Day.
 
 **Rule of thumb for later years:**
-- **Spring** starts the first full week after New Year's Day and runs 22 weeks.
-- **Fall** starts the week of Labor Day and ends the week before the week of Dec 20.
+- **Spring** starts the first Tuesday of the first full week after New Year's Day and runs 22 weeks.
+- **Fall** starts the Tuesday after Labor Day and ends on the last Tuesday on or before Dec 14 (15 sessions).
 
-## Weeks to watch
+## Dates to watch
 
-| Cohort | Week of | Holiday | Notes |
-|--------|---------|---------|-------|
-| Spring | mid-Jan | MLK Day (3rd Monday of January) | Only affects a Monday meeting |
-| Spring | mid-Feb | Presidents' Day (3rd Monday of February) | Only affects a Monday meeting |
-| Spring | late Mar / Apr | Spring break / Easter | Varies by year and by family; think about one flex week |
-| Spring | late May | Memorial Day (last Monday of May) | Usually the final week of spring. Don't put the wrap-up session on Monday. |
-| Fall | Labor Day week | Labor Day (1st Monday of September) | **Fall's first week.** Don't hold the kickoff on Monday. |
-| Fall | late Nov | Thanksgiving (Thu: Nov 25, 2027; Nov 23, 2028; Nov 22, 2029) | **Conflicts with a Thursday meeting.** If skipped, fall has 14 sessions. |
+None of these is a federal holiday, but they may affect attendance.
+
+| Date | What | Notes |
+|------|------|-------|
+| Tuesday after Labor Day | Fall kickoff | People are just back from the long weekend. Send a reminder the week before. |
+| Tuesday after Memorial Day (Jun 1, 2027) | Spring's final session in 2027 | Same as above |
+| Nov 2, 2027 | Election Day (off-year, local elections) | Minor |
+| **Nov 7, 2028** | **Election Day (presidential)** | Consider moving or making it a lighter session |
+| Nov 6, 2029 | Election Day (off-year) | Minor |
+| Tuesday before Thanksgiving | Thanksgiving travel | Some people may be traveling; a lighter session could help |
+| Oct 31, 2028 | Halloween | Only matters for an evening session |
+| Spring break (varies, Mar–Apr) | School spring breaks | Varies by family; think about one flex week |
 
 ## Open decisions
 
 - [ ] **How fall is condensed.** Options: fewer books; the same books at a faster pace; or fall as a focused "short course" on 2–3 books.
 - [ ] Is fall the same program as spring (for people who couldn't join in spring), or a follow-on for spring graduates?
-- [ ] Meeting day and time. The pilot met every other Thursday at 10:00.
-- [ ] Session length. The pilot plan budgeted 1 hr roundup + 1 hr workshop per week.
-- [ ] Does Thanksgiving week (fall) or a spring-break week count as a planned skip?
+- [ ] Meeting time (and time zone), plus session length. The pilot plan budgeted 1 hr roundup + 1 hr workshop per week.
+- [ ] Is there a planned flex or skip week (for example, the presidential Election Day in 2028)?
